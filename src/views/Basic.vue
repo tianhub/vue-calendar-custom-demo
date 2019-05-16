@@ -7,11 +7,9 @@
             <month-choose v-model="datetime"></month-choose>
         </div>
     </div>
-
 </template>
 
 <script>
-
     export default {
         name: 'home',
         components: {},
@@ -20,7 +18,6 @@
                 datetime: new Date(),
             }
         },
-
     }
 </script>
 
@@ -40,6 +37,4 @@
             top: 20px;
         }
     }
-
-
 </style>
