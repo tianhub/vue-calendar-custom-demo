@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "lodash": "^4.17.11",
     "vue": "^2.6.10",
+    "vue-calendar-custom": "^1.0.14",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
